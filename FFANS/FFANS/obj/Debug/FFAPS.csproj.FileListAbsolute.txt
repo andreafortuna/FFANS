@@ -1,0 +1,9 @@
+C:\Users\afortun\Desktop\Programming\vodafone-tools\FFAPS\FFAPS\obj\Debug\FFAPS.csproj.CoreCompileInputs.cache
+C:\Users\afortun\Desktop\Programming\vodafone-tools\FFAPS\FFAPS\bin\Debug\FFAPS.exe.config
+C:\Users\afortun\Desktop\Programming\vodafone-tools\FFAPS\FFAPS\bin\Debug\FFAPS.exe
+C:\Users\afortun\Desktop\Programming\vodafone-tools\FFAPS\FFAPS\bin\Debug\FFAPS.pdb
+C:\Users\afortun\Desktop\Programming\vodafone-tools\FFAPS\FFAPS\bin\Debug\System.Net.IPNetwork.dll
+C:\Users\afortun\Desktop\Programming\vodafone-tools\FFAPS\FFAPS\obj\Debug\FFAPS.csproj.CopyComplete
+C:\Users\afortun\Desktop\Programming\vodafone-tools\FFAPS\FFAPS\obj\Debug\FFAPS.exe
+C:\Users\afortun\Desktop\Programming\vodafone-tools\FFAPS\FFAPS\obj\Debug\FFAPS.pdb
+C:\Users\afortun\Desktop\Programming\vodafone-tools\FFAPS\FFAPS\obj\Debug\FFAPS.csprojAssemblyReference.cache
